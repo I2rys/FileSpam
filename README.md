@@ -3,7 +3,6 @@
 <h4 align="center">Files flood</h4>
 <p align="center">
 	<a href="https://github.com/I2rys/FileSpam/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/FileSpam?style=flat-square"></img></a>
-	<a href="https://github.com/I2rys/FileSpam"><img src="https://bettercodehub.com/edge/badge/I2rys/FileSpam?branch=main"></a>
 	<a href="https://github.com/I2rys/FileSpam/issues"><img src="https://img.shields.io/github/issues/I2rys/FileSpam.svg"></img></a>
 	<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js"></img></a>
 </p>
